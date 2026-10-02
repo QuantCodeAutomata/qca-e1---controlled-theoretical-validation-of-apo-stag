@@ -1,0 +1,2 @@
+n_windows,admissible_window_fraction,median_n_selected,median_defect_before,median_defect_after,defect_reduction_pct,apo_median_vol,sample_median_vol,pca_median_vol,lw_linear_median_vol,apo_median_sharpe,sample_median_sharpe
+25,1.0,3.0,0.5819993067827571,0.2086036761964182,64.15740126056821,3.285887896569109,3.392679878165944,3.32947323427412,3.3775406259319665,1.1545871599820678,1.1573726054198727

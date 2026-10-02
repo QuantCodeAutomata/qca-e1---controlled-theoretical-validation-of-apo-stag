@@ -1,0 +1,4 @@
+universe_type,sigma,defect_before,defect_after,defect_reduction_pct,n_selected,is_admissible,selected_drivers
+A,0.8,0.6501,0.2579,60.32,7,1,NF2+NF6+F1+NF5+F3+F2+NF3
+B,0.5,0.7652,0.4133,45.99,8,0,NF2+F3+NF1+F2+NF3+NF5+NF7+NF6
+C,0.2,0.8848,0.7563,14.52,8,0,NF2+NF6+F1+NF5+NF3+X6+X5+X2
